@@ -9,4 +9,6 @@ package prueba;
  */
 public class clase {
     private int q;
+    String hola="estoy en netbeans";
+    
 }
