@@ -10,5 +10,6 @@ package prueba;
  * @author programador
  */
 public class Clase {
+    public void Casa ();
     //pbdqwbdqwjdnqlicbu
 }
