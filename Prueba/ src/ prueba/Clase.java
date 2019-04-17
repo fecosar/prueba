@@ -10,5 +10,5 @@ package prueba;
  * @author programador
  */
 public class Clase {
-    
+    pbdqwbdqwjdnqlicbu
 }
